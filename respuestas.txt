@@ -3,3 +3,7 @@ La empresa es un sistema social que adopta una cultura determinada por su lotera
 dimimica con los sistemas y procedirnientos que forman su media ambiente:
 
 "clientes. proveedores, competidores. gobierno. etcetera."
+
+Respuesta 2 
+Los componentes básicos de un sistema son tres: el objetivo, los elementos y las 
+interrelaciones.
